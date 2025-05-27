@@ -156,7 +156,7 @@ Please credit the original authors when adapting or sharing.
 
 ## 📚 How to Cite the Workshop
 
-If you would like to reference the **VISGames Workshop at EuroVis 2025**, please use the following BibTeX entry:
+If you would like to reference the **VisGames Workshop**, please use the following BibTeX entry:
 
 ```bibtex
 @inproceedings{10.2312:visgames.20252015,
